@@ -1,0 +1,10 @@
+{
+  "name"         : "cron",
+  "version"      : "0.0.1",
+  "description"  : "cron web.",
+  "main"         : "index.js",
+  "dependencies" : {
+    "express"    : "*",
+    "cron"    : "*"
+  }
+}
